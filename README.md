@@ -7,7 +7,7 @@ This program contain some feature such as :
 - Disable Windows Defender
 - Optimize registry (Gaming Tweaks)
 - Scan for corrupted windows part (DISM, SFC)
-- Activate windows 10 (Home, Home Single Language, Pro, Enterprise, Education)
+- Activate windows 10 (Home, Pro, Enterprise, Home Single Language, Education)
 
 # Note
 This program is a collection of CMD commands you can search it for yourself such as :
