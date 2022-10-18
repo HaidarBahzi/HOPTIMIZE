@@ -1,4 +1,4 @@
-# HOPTIMIZER
+# HOPTIMIZE
 This Program can optimize, repair, and activate windows
 
 # Feature
