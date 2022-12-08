@@ -70,6 +70,7 @@ if not '%choice%'=='' set choice=%choice:~0,1%
 cls
 echo Deleting Temp Files...
 del /f /s /q %TEMP%\*
+del /f /s /q temp\*
 del /f /s /q C:\$Recycle.Bin
 del /f /s /q "%userprofile%\Local Settings\Temp\*.*1
 goto start
